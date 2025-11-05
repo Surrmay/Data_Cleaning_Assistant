@@ -1,0 +1,17 @@
+# Core Web Framework
+streamlit
+
+# Data Processing
+pandas
+numpy
+
+# LLM Integration
+langchain
+langchain-groq
+
+# Testing
+pytest
+pytest-mock
+
+# Environment Variables
+python-dotenv
